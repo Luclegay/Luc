@@ -12,10 +12,13 @@ suite sympa *en itale* ou **gras** c'est simple
 on teste aussi un double espace en fin de ligne pour voir ici   
 et la suite… 
 
+Guide complet ici https://guides.github.com/features/mastering-markdown/
+
+
 OK
 > une citation ? 
 
-facile
+facile !
 
 1. liste ordonnée
 2. pour voir
@@ -32,6 +35,12 @@ La case suivante sera une case à cocher HTML cochée.
 - [x] Ça ... c'est fait!
 
 trop bien
+
+---
+
+une ligne de séparation (tiens y a un truc lorsque espace avant et après on dirait)
+
+---
 
 
 un lien vers URL écrite plus bas en note [lien google]
