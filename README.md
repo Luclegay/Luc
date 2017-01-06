@@ -38,7 +38,7 @@ trop bien
 
 ---
 
-une ligne de séparation (tiens y a un truc lorsque espace avant et après on dirait)
+une ligne de séparation 
 
 ---
 
